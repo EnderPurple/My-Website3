@@ -193,7 +193,7 @@ h3 {
   animation: appear 1s linear;
 }
 
-@media screen and (max-width: 1080px) and (max-height: 1920px){
+@media screen and (max-width: 768px){
   .header {
     position: fixed;
     top: 0;
